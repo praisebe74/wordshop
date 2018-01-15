@@ -61,7 +61,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <h2 class="section-heading text-white">직접 단어를 만들어보세요!</h2>
+            <h2 class="section-heading text-white">직접 단어를 만들어보세요!!</h2>
             <hr class="light my-4">
             <p class="text-faded mb-4">평소에 좋아하던 단어, 나를 표현할 수 있는 단어, 지금 나의 기분을 표현하는 단어, 무엇이든 좋습니다.<br />
             단, 하루에 한 단어만 제작할 수 있으니 신중하세요!</p>
